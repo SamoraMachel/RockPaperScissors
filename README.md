@@ -2,4 +2,4 @@
 
 A simple web application for playing rock paper scissors
 
-![Play Example](app.pics/play.gif)
+![Play Example](app/play.gif)
